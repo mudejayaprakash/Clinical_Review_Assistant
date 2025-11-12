@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#007a80"          
+backgroundColor = "#FFFFFF"       # main background
+secondaryBackgroundColor = "#f2f8f9"  # panels / expanders
+textColor = "#333333"             # main text color
+font = "sans serif"
