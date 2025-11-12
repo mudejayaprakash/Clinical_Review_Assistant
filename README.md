@@ -214,11 +214,11 @@ Open browser to: http://localhost:8501
 
 ## Security & Compliance
 
-- ✅ **HIPAA Compliant Design**: Ephemeral processing, no PHI persistence
-- ✅ **API Key Protection**: Environment variables, never committed to repository
-- ✅ **Input Validation**: PDF validation, file size limits, content sanitization
-- ✅ **Audit Logging**: All actions logged with user ID and timestamp
-- ✅ **Access Control**: Authentication required for all operations
+- **HIPAA Compliant Design**: Ephemeral processing, no PHI persistence
+- **API Key Protection**: Environment variables, never committed to repository
+- **Input Validation**: PDF validation, file size limits, content sanitization
+- **Audit Logging**: All actions logged with user ID and timestamp
+- **Access Control**: Authentication required for all operations
 
 ## Academic Project
 
