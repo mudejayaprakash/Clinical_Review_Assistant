@@ -145,9 +145,9 @@ Open browser to: http://localhost:8501
 
 ## Team Member Contributions
 
-- **Mude Jayaparakash Naik**: Agent architecture design, LangGraph implementation, Node 1 & 2 development
-- **Sonal Shreya**: RAG system design, Pinecone integration, hybrid search implementation, Node 3 evaluation logic.
-- **Sumit Singh**: Prompt engineering, Streamlit UI development, user experience design, authentication and security system, testing and validation
+- **Mude Jayaparakash Naik**: Agent architecture design, RAG system design, Pinecone integration,LangGraph implementation, Node 1 & 2 development
+- **Sonal Shreya**: Testing and validation, hybrid search implementation, Node 3 evaluation logic.
+- **Sumit Singh**: Prompt engineering, Streamlit UI development, user experience design, authentication and security system, 
 
 ## Technologies Used
 
